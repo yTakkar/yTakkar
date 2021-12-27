@@ -2,6 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=yTakkar" alt="yTakkar" /> 
 
+---
+
 🛒 Launch your online store with [OwnStore](https://ownstore.dev).
 
 <!--
