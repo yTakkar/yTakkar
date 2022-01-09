@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=yTakkar" alt="yTakkar" /> 
 
-Learn more about here: https://faiyaztakkar.dev
+Learn more about me here: https://faiyaztakkar.dev
 
 ---
 
